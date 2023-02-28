@@ -6,7 +6,9 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/KarimCMoa)
 
-I'm a ✨ special ✨ man.
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=145267&width=435&lines=Welcome+on+my+GitHub+profile!;I'm+a+social+media+manager.;I'm+a+Java+Developer."/></a>
+</p>
 
 ## 💻 Programming Languages
 
