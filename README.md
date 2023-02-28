@@ -16,7 +16,7 @@
 
 ## 💻 Statistics
 
-![KarimCMoa's Github stats](https://github-readme-stats.vercel.app/api?username=KarimCMoa&theme=dark)
+![KarimCMoa's Github stats](https://github-readme-stats.vercel.app/api?username=KarimCMoa&theme=dark)<br>
 ![KarimCMoa's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=KarimCMoa&theme=dark)
 
 
