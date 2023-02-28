@@ -24,4 +24,4 @@
 <div align="center">
   <a target="_blank" href="https://github.com/KarimCMoa"><img src="https://img.shields.io/github/followers/karimcmoa?color=white&label=Follow&logo=github&style=flat-square"></a>
   <a target="_blank" href="https://twitter.com/KarimCMoa"><img src="https://img.shields.io/twitter/follow/KarimCMoa?color=%231DA1F2&label=Follow&logo=twitter&style=flat-square"></a>
-  <a target="_blank" href="mailto:contact@karimb.be"><img src="https://img.shields.io/badge/Contactez moi-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="mailto:contact@karimb.be"><img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
