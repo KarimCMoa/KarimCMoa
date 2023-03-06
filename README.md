@@ -15,7 +15,7 @@
 ![KarimCMoa's Github stats](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 💻 Statistics
-
+![KarimCMoa's Trophee](https://github-profile-trophy.vercel.app/?username=KarimCMoa&theme=nord)<br><br>
 ![KarimCMoa's Github stats](https://github-readme-stats.vercel.app/api?username=KarimCMoa&theme=dark)<br>
 ![KarimCMoa's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=KarimCMoa&theme=dark)
 
