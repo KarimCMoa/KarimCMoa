@@ -10,7 +10,7 @@
 
 ## 📚 Experiences
 • Founder Oviota </br>
-• Work School Saint Joseph Boondael - System Administrator </br>
+• School Saint Joseph Boondael - System Administrator </br>
 • Communications Manager InovaPerf </br>
 • Communications Manager Isaper </br>
 • Digital Stage Manager Woogie Studio </br>
