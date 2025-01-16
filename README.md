@@ -47,6 +47,7 @@
 ![NextJS](https://img.shields.io/badge/NextJS-%23303846.svg?style=for-the-badge&logo=java&logoColor=white)
 ![OVHCloud](https://img.shields.io/badge/OVHCloud-%23303846.svg?style=for-the-badge&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23303846.svg?style=for-the-badge&logo=java&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/CloudFlare-%23303846.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 💻 Statistics
 ![KarimCMoa's Github stats](https://github-readme-stats.vercel.app/api?username=KarimCMoa&theme=dark)  
